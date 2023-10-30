@@ -82,6 +82,7 @@ h6 {
 
 #header h1 a,
 #header h1 a:hover {
+  font-size: 35px;
   color: #fa0404;
   line-height: 1;
 }
@@ -98,7 +99,11 @@ h6 {
   padding-bottom: 6px;
 }
 
-
+#header h1 img
+{
+  height: 35px;
+  width: 35px;
+}
 
 #header img {
   padding: 0;
