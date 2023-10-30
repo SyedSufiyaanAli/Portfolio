@@ -82,7 +82,8 @@ h6 {
 
 #header h1 a,
 #header h1 a:hover {
-  font-size: 35px;
+  padding-left: 8px;
+  font-size: 34px;
   color: #fff;
   line-height: 1;
   display: inline-block;
